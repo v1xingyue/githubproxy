@@ -2,7 +2,7 @@
 
 部署在 Cloudflare 边缘的 GitHub **公开资源**代理，无运行时依赖，无需 KV、R2 或数据库。响应直接流式转发，不把整个文件读入内存。
 
-在线实例：<https://githubproxy.qixingyue.workers.dev>
+在线实例：<https://fastgit.hns.cool>（备用地址：<https://githubproxy.qixingyue.workers.dev>）
 
 ## 部署
 
